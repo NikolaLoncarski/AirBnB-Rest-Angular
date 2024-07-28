@@ -1,0 +1,15 @@
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\bin\Debug\net8.0\AirBnB.Domain.deps.json
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\bin\Debug\net8.0\AirBnB.Domain.runtimeconfig.json
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\bin\Debug\net8.0\AirBnB.Domain.dll
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\bin\Debug\net8.0\AirBnB.Domain.pdb
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\AirBnB.Domain.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\AirBnB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\AirBnB.Domain.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\AirBnB.Domain.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\AirBnB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\AirBnB.Domain.sourcelink.json
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\AirBnB.Domain.dll
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\refint\AirBnB.Domain.dll
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\AirBnB.Domain.pdb
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\AirBnB.Domain.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\AirBnB\AirBnB\AirBnB.Domain\obj\Debug\net8.0\ref\AirBnB.Domain.dll

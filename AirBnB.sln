@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirBnB", "AirBnB\AirBnB.csproj", "{3F700AC0-83E7-466F-B661-51419DF999A7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{0FF29EAC-D69A-41B9-A5A7-E9FD53F2C11B} = {0FF29EAC-D69A-41B9-A5A7-E9FD53F2C11B}
+		{83644FAE-D62D-421C-9422-1919A75D53EA} = {83644FAE-D62D-421C-9422-1919A75D53EA}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirBnB.Domain", "AirBnB.Domain\AirBnB.Domain.csproj", "{0FF29EAC-D69A-41B9-A5A7-E9FD53F2C11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirBnB.Service", "AirBnB.Service\AirBnB.Service.csproj", "{83644FAE-D62D-421C-9422-1919A75D53EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F700AC0-83E7-466F-B661-51419DF999A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F700AC0-83E7-466F-B661-51419DF999A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F700AC0-83E7-466F-B661-51419DF999A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F700AC0-83E7-466F-B661-51419DF999A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF29EAC-D69A-41B9-A5A7-E9FD53F2C11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF29EAC-D69A-41B9-A5A7-E9FD53F2C11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF29EAC-D69A-41B9-A5A7-E9FD53F2C11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF29EAC-D69A-41B9-A5A7-E9FD53F2C11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83644FAE-D62D-421C-9422-1919A75D53EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83644FAE-D62D-421C-9422-1919A75D53EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83644FAE-D62D-421C-9422-1919A75D53EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83644FAE-D62D-421C-9422-1919A75D53EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F336F62-887F-4D4C-9F36-6F32BB637679}
+	EndGlobalSection
+EndGlobal
